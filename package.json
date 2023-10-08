@@ -1,0 +1,17 @@
+{
+  "name": "discord_bot_starter",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.5-canary.20231008T140131"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
