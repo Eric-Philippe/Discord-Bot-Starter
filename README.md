@@ -2,6 +2,30 @@
 
 This is a starter kit for a Discord bot written in TypeScript and using Bun. The main goal of this project is to provide a simple and easy to use starter kit for anyone who wants to create a Discord bot using TypeScript. it's quick and easy to launch your first bot with this starter kit !
 
+## Summary
+
+- [Discord Bot Starter Kit](#discord-bot-starter-kit)
+  - [Summary](#summary)
+  - [First Features](#first-features)
+    - [Commands](#commands)
+    - [XP System](#xp-system)
+    - [A structured project](#a-structured-project)
+  - [How to use](#how-to-use)
+    - [Requirements](#requirements)
+    - [Copy the project](#copy-the-project)
+    - [Install the dependencies](#install-the-dependencies)
+    - [Create the .env file](#create-the-env-file)
+    - [Create and dump the database](#create-and-dump-the-database)
+    - [Create the Discord Bot](#create-the-discord-bot)
+      - [Get the bot token](#get-the-bot-token)
+      - [Get the client ID](#get-the-client-id)
+      - [Give the bot the Privileged Gateway Intents](#give-the-bot-the-privileged-gateway-intents)
+    - [Invite the bot to your server](#invite-the-bot-to-your-server)
+    - [Run the bot](#run-the-bot)
+  - [How to add a command](#how-to-add-a-command)
+    - [Create the command file](#create-the-command-file)
+  - [Feedback or issues](#feedback-or-issues)
+
 ## First Features
 
 ### Commands
